@@ -1,2 +1,2 @@
-# LoneCityV2-UE5
-A collaborative project between Columbia University's Professors and Cowland Game Studios.
+# Lone City
+The environment game made in partnership with the non-profit organization Love & Future.
